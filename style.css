@@ -11,7 +11,7 @@ body{
 
 .order-summary {
     background-color: hsl(225, 100%, 98%);
-    width: 400px;
+    width: 450px;
     height: 600px;
     max-width: 450px;
     min-width: 300px;
@@ -19,6 +19,10 @@ body{
     margin:60px auto;
     border-radius: 10px;
 }
+ .order-summary > img{
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+     
  .music-plan{
     background-color: hsl(225, 100%, 96%);
     border: none;
